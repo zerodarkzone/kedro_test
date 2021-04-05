@@ -4,6 +4,7 @@
 #
 #    pip-compile 'D:\Users\juanb\kedrotest\pyspark_demo\src\requirements.in'
 #
+kedro==0.17.2
 anyconfig==0.10.0
     # via kedro
 appdirs==1.4.4
