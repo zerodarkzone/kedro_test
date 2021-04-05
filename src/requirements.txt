@@ -158,7 +158,7 @@ jupyterlab-widgets==1.0.0
     # via ipywidgets
 jupyterlab==0.31.1
     # via -r C:\Users\juanb\Documents\proyectos\kedro_test\src\requirements.in
-kedro[spark.sparkdataset]==0.17.2
+kedro==0.17.2
     # via -r C:\Users\juanb\Documents\proyectos\kedro_test\src\requirements.in
 markupsafe==1.1.1
     # via
@@ -262,10 +262,6 @@ python-json-logger==0.1.11
     # via kedro
 python-slugify==4.0.1
     # via cookiecutter
-pywin32==300
-    # via jupyter-core
-pywinpty==0.5.7
-    # via terminado
 pyyaml==5.4.1
     # via kedro
 pyzmq==22.0.3
