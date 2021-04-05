@@ -94,7 +94,7 @@ ipython-genutils==0.2.0
     #   notebook
     #   qtconsole
     #   traitlets
-ipython==7.21.0
+ipython==7.16.1
     # via
     #   -r D:\Users\juanb\kedrotest\pyspark_demo\src\requirements.in
     #   ipykernel
