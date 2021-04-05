@@ -158,7 +158,7 @@ jupyterlab-widgets==1.0.0
     # via ipywidgets
 jupyterlab==0.31.1
     # via -r C:\Users\juanb\Documents\proyectos\kedro_test\src\requirements.in
-kedro==0.17.2
+kedro[spark.sparkdataset]==0.17.2
     # via -r C:\Users\juanb\Documents\proyectos\kedro_test\src\requirements.in
 markupsafe==1.1.1
     # via
